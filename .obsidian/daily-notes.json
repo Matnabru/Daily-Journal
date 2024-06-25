@@ -1,0 +1,6 @@
+{
+  "autorun": true,
+  "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd",
+  "template": "Bins/Templates/Daily Note Template",
+  "folder": "Daily Journal"
+}
